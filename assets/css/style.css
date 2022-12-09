@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman';
+}
+
+header{
+    text-align: right;
+    background-color: rgb(73, 187, 73);
+}
+
+body{
+    text-align: center;
+}
